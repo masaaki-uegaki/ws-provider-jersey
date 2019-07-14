@@ -1,4 +1,4 @@
-package ws.sample.jersey2;
+package ws.sample.jersey;
 
 public class User {
     public String id;

@@ -1,4 +1,4 @@
-package ws.sample.jersey2;
+package ws.sample.jersey;
 
 import javax.ws.rs.BeanParam;
 import javax.ws.rs.Consumes;
@@ -11,7 +11,7 @@ import javax.ws.rs.WebApplicationException;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import ws.sample.jersey2.User;
+import ws.sample.jersey.User;
 
 /**
  * Root resource (exposed at "users" path)
